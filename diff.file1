@@ -15,3 +15,5 @@ for num in range(1, 21):
         print(f"{num} is a prime number.")
     else:
         print(f"{num} is not a prime number.")
+
+	adding 2 nd line
